@@ -1,0 +1,554 @@
+
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.0 Transitional//EN">
+<html><head><title>Python: module API</title>
+</head><body bgcolor="#f0f0f8">
+
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="heading">
+<tr bgcolor="#7799ee">
+<td valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial">&nbsp;<br><big><big><strong>API</strong></big></big></font></td
+><td align=right valign=bottom
+><font color="#ffffff" face="helvetica, arial"><a href=".">index</a><br><a href="file:/Users/doug/games/bacon/API.py">/Users/doug/games/bacon/API.py</a></font></td></tr></table>
+    <p></p>
+<p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#aa55cc">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Modules</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#aa55cc"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><table width="100%" summary="list"><tr><td width="25%" valign=top><a href="Bigrams.html">Bigrams</a><br>
+<a href="json.html">json</a><br>
+</td><td width="25%" valign=top><a href="os.html">os</a><br>
+<a href="sys.html">sys</a><br>
+</td><td width="25%" valign=top><a href="urlparse.html">urlparse</a><br>
+</td><td width="25%" valign=top></td></tr></table></td></tr></table><p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ee77aa">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#ffffff" face="helvetica, arial"><big><strong>Classes</strong></big></font></td></tr>
+    
+<tr><td bgcolor="#ee77aa"><tt>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl>
+<dt><font face="helvetica, arial"><a href="Bigrams.html#EdgeUnknownError">Bigrams.EdgeUnknownError</a>(<a href="Bigrams.html#Error">Bigrams.Error</a>)
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="API.html#EdgeUnknownError">EdgeUnknownError</a>
+</font></dt></dl>
+</dd>
+<dt><font face="helvetica, arial"><a href="Bigrams.html#Error">Bigrams.Error</a>(<a href="exceptions.html#Exception">exceptions.Exception</a>)
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="API.html#InvalidArgError">InvalidArgError</a>
+</font></dt><dt><font face="helvetica, arial"><a href="API.html#MissingArgError">MissingArgError</a>
+</font></dt><dt><font face="helvetica, arial"><a href="API.html#NodeUnknownError">NodeUnknownError</a>
+</font></dt></dl>
+</dd>
+<dt><font face="helvetica, arial"><a href="Bigrams.html#Game_API">Bigrams.Game_API</a>(<a href="__builtin__.html#object">__builtin__.object</a>)
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="API.html#API">API</a>
+</font></dt></dl>
+</dd>
+<dt><font face="helvetica, arial"><a href="Bigrams.html#PathUnknownError">Bigrams.PathUnknownError</a>(<a href="Bigrams.html#Error">Bigrams.Error</a>)
+</font></dt><dd>
+<dl>
+<dt><font face="helvetica, arial"><a href="API.html#PathUnknownError">PathUnknownError</a>
+</font></dt></dl>
+</dd>
+</dl>
+ <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="API">class <strong>API</strong></a>(<a href="Bigrams.html#Game_API">Bigrams.Game_API</a>)</font></td></tr>
+    
+<tr><td bgcolor="#ffc8d8"><tt>&nbsp;&nbsp;&nbsp;</tt></td><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="API.html#API">API</a></dd>
+<dd><a href="Bigrams.html#Game_API">Bigrams.Game_API</a></dd>
+<dd><a href="__builtin__.html#object">__builtin__.object</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="API-__init__"><strong>__init__</strong></a>(self, dbname)</dt></dl>
+
+<dl><dt><a name="API-about_"><strong>about_</strong></a>(self, args)</dt><dd><tt>Service:&nbsp;about<br>
+Description:&nbsp;Return&nbsp;some&nbsp;information&nbsp;about&nbsp;the&nbsp;graph<br>
+&nbsp;<br>
+Args:&nbsp;None<br>
+Returns:&nbsp;{'nodes':&nbsp;num_nodes(int),&nbsp;'edges':&nbsp;num_edges(int),&nbsp;'components':&nbsp;num_components(int)}<br>
+&nbsp;<br>
+Examples:<br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/about">http://&lt;remote_host&gt;:&lt;port&gt;/about</a></tt></dd></dl>
+
+<dl><dt><a name="API-distance_"><strong>distance_</strong></a>(self, args)</dt><dd><tt>Service:&nbsp;distance<br>
+Description:&nbsp;Return&nbsp;the&nbsp;shortest&nbsp;distance&nbsp;between&nbsp;two&nbsp;refs<br>
+&nbsp;<br>
+Args:&nbsp;ref1(int),&nbsp;ref2(int)<br>
+Returns:&nbsp;{'distance':&nbsp;<a href="#API-distance">distance</a>(int)}<br>
+&nbsp;<br>
+Examples:<br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/distance?ref1=1234&amp;ref2=5678">http://&lt;remote_host&gt;:&lt;port&gt;/distance?ref1=1234&amp;ref2=5678</a></tt></dd></dl>
+
+<dl><dt><a name="API-get_node_"><strong>get_node_</strong></a>(self, args)</dt><dd><tt>Service:&nbsp;get_node<br>
+Description:&nbsp;Return&nbsp;a&nbsp;node&nbsp;(ref,&nbsp;word)&nbsp;pair&nbsp;by&nbsp;supplying&nbsp;either&nbsp;a&nbsp;'ref'&nbsp;or&nbsp;a&nbsp;'word'<br>
+&nbsp;<br>
+Args:&nbsp;ref(int,&nbsp;optional),&nbsp;word(str,&nbsp;optional)<br>
+Returns:&nbsp;{'ref':&nbsp;ref(int),&nbsp;'word':&nbsp;word(str)}&nbsp;<br>
+&nbsp;<br>
+Examples:<br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/get_node?ref=1234">http://&lt;remote_host&gt;:&lt;port&gt;/get_node?ref=1234</a><br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/get_node?word=foobar">http://&lt;remote_host&gt;:&lt;port&gt;/get_node?word=foobar</a></tt></dd></dl>
+
+<dl><dt><a name="API-random_node_"><strong>random_node_</strong></a>(self, args)</dt><dd><tt>Service:&nbsp;random_node<br>
+Description:&nbsp;Return&nbsp;a&nbsp;random&nbsp;node&nbsp;(ref,&nbsp;word)&nbsp;pair<br>
+&nbsp;<br>
+Args:&nbsp;None<br>
+Returns:&nbsp;{'ref':&nbsp;ref(int),&nbsp;'word':&nbsp;word(str)}&nbsp;<br>
+&nbsp;<br>
+Examples:<br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/random_node">http://&lt;remote_host&gt;:&lt;port&gt;/random_node</a></tt></dd></dl>
+
+<dl><dt><a name="API-random_node_by_distance_"><strong>random_node_by_distance_</strong></a>(self, args)</dt><dd><tt>Service:&nbsp;random_node_by_distance<br>
+Description:&nbsp;Return&nbsp;a&nbsp;node&nbsp;(ref,&nbsp;word)&nbsp;pair&nbsp;that&nbsp;is&nbsp;within&nbsp;a&nbsp;certian&nbsp;distance&nbsp;from&nbsp;a&nbsp;ref<br>
+&nbsp;<br>
+Args:&nbsp;ref(int),&nbsp;min_distance(int),&nbsp;max_distance(int,&nbsp;optional)<br>
+Returns:&nbsp;{'ref':&nbsp;ref(int),&nbsp;'word':&nbsp;word(str)}&nbsp;<br>
+&nbsp;<br>
+Examples:<br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/random_node_by_distance?ref=1234&amp;min_distance=3">http://&lt;remote_host&gt;:&lt;port&gt;/random_node_by_distance?ref=1234&amp;min_distance=3</a><br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/random_node_by_distance?ref=1234&amp;min_distance=3&amp;max_distance=3">http://&lt;remote_host&gt;:&lt;port&gt;/random_node_by_distance?ref=1234&amp;min_distance=3&amp;max_distance=3</a></tt></dd></dl>
+
+<dl><dt><a name="API-sense_path_"><strong>sense_path_</strong></a>(self, args)</dt><dd><tt>Service:&nbsp;sense_path<br>
+Description:&nbsp;Return&nbsp;sense&nbsp;path&nbsp;given&nbsp;a&nbsp;list&nbsp;of&nbsp;refs<br>
+&nbsp;<br>
+Args:&nbsp;refs(comma&nbsp;separated&nbsp;list&nbsp;of&nbsp;ints),&nbsp;exclude_homophones(bool,&nbsp;optional,&nbsp;default=False)<br>
+Returns:&nbsp;{'senses':&nbsp;{'word':&nbsp;word(str),&nbsp;'index':&nbsp;index(int),&nbsp;'link':&nbsp;linktype(str),&nbsp;'gloss':&nbsp;gloss(str)},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'word':&nbsp;word(str),&nbsp;'index':&nbsp;index(int),&nbsp;'link':&nbsp;linktype(str),&nbsp;'gloss':&nbsp;gloss(str)},<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;...,<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;{'word':&nbsp;word(str),&nbsp;'index':&nbsp;index(int),&nbsp;'link':&nbsp;linktype(str),&nbsp;'gloss':&nbsp;gloss(str)}}<br>
+&nbsp;<br>
+Examples:<br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/sense_path?refs=12,34,56,78">http://&lt;remote_host&gt;:&lt;port&gt;/sense_path?refs=12,34,56,78</a><br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/sense_path?refs=12,34,56,78&amp;exclude_homophones=True">http://&lt;remote_host&gt;:&lt;port&gt;/sense_path?refs=12,34,56,78&amp;exclude_homophones=True</a></tt></dd></dl>
+
+<dl><dt><a name="API-set_environ"><strong>set_environ</strong></a>(self, environ)</dt></dl>
+
+<dl><dt><a name="API-shortest_path_"><strong>shortest_path_</strong></a>(self, args)</dt><dd><tt>Service:&nbsp;shortest_path<br>
+Description:&nbsp;Return&nbsp;the&nbsp;shortest&nbsp;path&nbsp;between&nbsp;two&nbsp;refs<br>
+&nbsp;<br>
+Args:&nbsp;ref1(int),&nbsp;ref2(int)<br>
+Returns:&nbsp;{'path':&nbsp;[ref1(int),&nbsp;ref_i(int),&nbsp;ref_j(int),&nbsp;...,&nbsp;ref2(int)]}<br>
+&nbsp;<br>
+Examples:<br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/shortest_path?ref1=1234&amp;ref2=5678">http://&lt;remote_host&gt;:&lt;port&gt;/shortest_path?ref1=1234&amp;ref2=5678</a></tt></dd></dl>
+
+<hr>
+Methods inherited from <a href="Bigrams.html#Game_API">Bigrams.Game_API</a>:<br>
+<dl><dt><a name="API-about"><strong>about</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="API-debug"><strong>debug</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="API-distance"><strong>distance</strong></a>(self, ref1, ref2)</dt></dl>
+
+<dl><dt><a name="API-graph_str"><strong>graph_str</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="API-node"><strong>node</strong></a>(self, ref<font color="#909090">=None</font>, word<font color="#909090">=None</font>)</dt></dl>
+
+<dl><dt><a name="API-random_node"><strong>random_node</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="API-random_node_by_distance"><strong>random_node_by_distance</strong></a>(self, ref, min_distance, max_distance)</dt></dl>
+
+<dl><dt><a name="API-sense_path"><strong>sense_path</strong></a>(self, ref_path, include_homophones<font color="#909090">=True</font>)</dt><dd><tt>List&nbsp;of&nbsp;dicts&nbsp;where&nbsp;each&nbsp;list&nbsp;item&nbsp;is&nbsp;based&nbsp;on&nbsp;linking&nbsp;senses&nbsp;of&nbsp;the&nbsp;form:<br>
+{'word':&nbsp;&lt;word&gt;,&nbsp;'index':&nbsp;&lt;index&gt;,&nbsp;'link':&nbsp;&lt;link&gt;,&nbsp;'gloss':&nbsp;&lt;gloss&gt;}</tt></dd></dl>
+
+<dl><dt><a name="API-shortest_paths"><strong>shortest_paths</strong></a>(self, key)</dt></dl>
+
+<hr>
+Data descriptors inherited from <a href="Bigrams.html#Game_API">Bigrams.Game_API</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+<dd><tt>dictionary&nbsp;for&nbsp;instance&nbsp;variables&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="EdgeUnknownError">class <strong>EdgeUnknownError</strong></a>(<a href="Bigrams.html#EdgeUnknownError">Bigrams.EdgeUnknownError</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt>Description:&nbsp;Exception&nbsp;generated&nbsp;when&nbsp;an&nbsp;edge&nbsp;could&nbsp;not&nbsp;be&nbsp;determined<br>
+Returns:&nbsp;{'error':&nbsp;310,&nbsp;'msg':&nbsp;"Edge&nbsp;could&nbsp;not&nbsp;be&nbsp;determined&nbsp;defined&nbsp;by&nbsp;refs&nbsp;'&lt;ref1&gt;'&nbsp;and&nbsp;'&lt;ref2&gt;'"}<br>
+&nbsp;<br>
+Examples:<br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/sense_path?refs=1,2,&lt;bad_ref">http://&lt;remote_host&gt;:&lt;port&gt;/sense_path?refs=1,2,&lt;bad_ref</a>&gt;<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="API.html#EdgeUnknownError">EdgeUnknownError</a></dd>
+<dd><a href="Bigrams.html#EdgeUnknownError">Bigrams.EdgeUnknownError</a></dd>
+<dd><a href="Bigrams.html#Error">Bigrams.Error</a></dd>
+<dd><a href="exceptions.html#Exception">exceptions.Exception</a></dd>
+<dd><a href="exceptions.html#BaseException">exceptions.BaseException</a></dd>
+<dd><a href="__builtin__.html#object">__builtin__.object</a></dd>
+</dl>
+<hr>
+Methods inherited from <a href="Bigrams.html#EdgeUnknownError">Bigrams.EdgeUnknownError</a>:<br>
+<dl><dt><a name="EdgeUnknownError-__init__"><strong>__init__</strong></a>(self, ref1, ref2)</dt></dl>
+
+<hr>
+Data and other attributes inherited from <a href="Bigrams.html#EdgeUnknownError">Bigrams.EdgeUnknownError</a>:<br>
+<dl><dt><strong>ERROR_CODE</strong> = 310</dl>
+
+<hr>
+Methods inherited from <a href="Bigrams.html#Error">Bigrams.Error</a>:<br>
+<dl><dt><a name="EdgeUnknownError-__str__"><strong>__str__</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="EdgeUnknownError-code"><strong>code</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="EdgeUnknownError-trace"><strong>trace</strong></a>(self, info)</dt></dl>
+
+<hr>
+Data descriptors inherited from <a href="Bigrams.html#Error">Bigrams.Error</a>:<br>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="exceptions.html#Exception">exceptions.Exception</a>:<br>
+<dl><dt><strong>__new__</strong> = &lt;built-in method __new__ of type object&gt;<dd><tt>T.<a href="#EdgeUnknownError-__new__">__new__</a>(S,&nbsp;...)&nbsp;-&gt;&nbsp;a&nbsp;new&nbsp;object&nbsp;with&nbsp;type&nbsp;S,&nbsp;a&nbsp;subtype&nbsp;of&nbsp;T</tt></dl>
+
+<hr>
+Methods inherited from <a href="exceptions.html#BaseException">exceptions.BaseException</a>:<br>
+<dl><dt><a name="EdgeUnknownError-__delattr__"><strong>__delattr__</strong></a>(...)</dt><dd><tt>x.<a href="#EdgeUnknownError-__delattr__">__delattr__</a>('name')&nbsp;&lt;==&gt;&nbsp;del&nbsp;x.name</tt></dd></dl>
+
+<dl><dt><a name="EdgeUnknownError-__getattribute__"><strong>__getattribute__</strong></a>(...)</dt><dd><tt>x.<a href="#EdgeUnknownError-__getattribute__">__getattribute__</a>('name')&nbsp;&lt;==&gt;&nbsp;x.name</tt></dd></dl>
+
+<dl><dt><a name="EdgeUnknownError-__getitem__"><strong>__getitem__</strong></a>(...)</dt><dd><tt>x.<a href="#EdgeUnknownError-__getitem__">__getitem__</a>(y)&nbsp;&lt;==&gt;&nbsp;x[y]</tt></dd></dl>
+
+<dl><dt><a name="EdgeUnknownError-__getslice__"><strong>__getslice__</strong></a>(...)</dt><dd><tt>x.<a href="#EdgeUnknownError-__getslice__">__getslice__</a>(i,&nbsp;j)&nbsp;&lt;==&gt;&nbsp;x[i:j]<br>
+&nbsp;<br>
+Use&nbsp;of&nbsp;negative&nbsp;indices&nbsp;is&nbsp;not&nbsp;supported.</tt></dd></dl>
+
+<dl><dt><a name="EdgeUnknownError-__reduce__"><strong>__reduce__</strong></a>(...)</dt></dl>
+
+<dl><dt><a name="EdgeUnknownError-__repr__"><strong>__repr__</strong></a>(...)</dt><dd><tt>x.<a href="#EdgeUnknownError-__repr__">__repr__</a>()&nbsp;&lt;==&gt;&nbsp;repr(x)</tt></dd></dl>
+
+<dl><dt><a name="EdgeUnknownError-__setattr__"><strong>__setattr__</strong></a>(...)</dt><dd><tt>x.<a href="#EdgeUnknownError-__setattr__">__setattr__</a>('name',&nbsp;value)&nbsp;&lt;==&gt;&nbsp;x.name&nbsp;=&nbsp;value</tt></dd></dl>
+
+<dl><dt><a name="EdgeUnknownError-__setstate__"><strong>__setstate__</strong></a>(...)</dt></dl>
+
+<dl><dt><a name="EdgeUnknownError-__unicode__"><strong>__unicode__</strong></a>(...)</dt></dl>
+
+<hr>
+Data descriptors inherited from <a href="exceptions.html#BaseException">exceptions.BaseException</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+</dl>
+<dl><dt><strong>args</strong></dt>
+</dl>
+<dl><dt><strong>message</strong></dt>
+</dl>
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="InvalidArgError">class <strong>InvalidArgError</strong></a>(<a href="Bigrams.html#Error">Bigrams.Error</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt>Description:&nbsp;Exception&nbsp;generated&nbsp;when&nbsp;the&nbsp;value&nbsp;of&nbsp;an&nbsp;argument&nbsp;is&nbsp;invalid<br>
+Returns:&nbsp;{'error':&nbsp;405,&nbsp;'msg':&nbsp;"value&nbsp;'&lt;value&gt;'&nbsp;for&nbsp;arg&nbsp;'&lt;arg&gt;'&nbsp;is&nbsp;invalid."}<br>
+&nbsp;<br>
+Examples:<br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/random_node_by_distance?ref=10&amp;min_distance=undefined">http://&lt;remote_host&gt;:&lt;port&gt;/random_node_by_distance?ref=10&amp;min_distance=undefined</a>&nbsp;(min_distance&nbsp;should&nbsp;be&nbsp;an&nbsp;integer)<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="API.html#InvalidArgError">InvalidArgError</a></dd>
+<dd><a href="Bigrams.html#Error">Bigrams.Error</a></dd>
+<dd><a href="exceptions.html#Exception">exceptions.Exception</a></dd>
+<dd><a href="exceptions.html#BaseException">exceptions.BaseException</a></dd>
+<dd><a href="__builtin__.html#object">__builtin__.object</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="InvalidArgError-__init__"><strong>__init__</strong></a>(self, key, arg)</dt></dl>
+
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>ERROR_CODE</strong> = 405</dl>
+
+<hr>
+Methods inherited from <a href="Bigrams.html#Error">Bigrams.Error</a>:<br>
+<dl><dt><a name="InvalidArgError-__str__"><strong>__str__</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="InvalidArgError-code"><strong>code</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="InvalidArgError-trace"><strong>trace</strong></a>(self, info)</dt></dl>
+
+<hr>
+Data descriptors inherited from <a href="Bigrams.html#Error">Bigrams.Error</a>:<br>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="exceptions.html#Exception">exceptions.Exception</a>:<br>
+<dl><dt><strong>__new__</strong> = &lt;built-in method __new__ of type object&gt;<dd><tt>T.<a href="#InvalidArgError-__new__">__new__</a>(S,&nbsp;...)&nbsp;-&gt;&nbsp;a&nbsp;new&nbsp;object&nbsp;with&nbsp;type&nbsp;S,&nbsp;a&nbsp;subtype&nbsp;of&nbsp;T</tt></dl>
+
+<hr>
+Methods inherited from <a href="exceptions.html#BaseException">exceptions.BaseException</a>:<br>
+<dl><dt><a name="InvalidArgError-__delattr__"><strong>__delattr__</strong></a>(...)</dt><dd><tt>x.<a href="#InvalidArgError-__delattr__">__delattr__</a>('name')&nbsp;&lt;==&gt;&nbsp;del&nbsp;x.name</tt></dd></dl>
+
+<dl><dt><a name="InvalidArgError-__getattribute__"><strong>__getattribute__</strong></a>(...)</dt><dd><tt>x.<a href="#InvalidArgError-__getattribute__">__getattribute__</a>('name')&nbsp;&lt;==&gt;&nbsp;x.name</tt></dd></dl>
+
+<dl><dt><a name="InvalidArgError-__getitem__"><strong>__getitem__</strong></a>(...)</dt><dd><tt>x.<a href="#InvalidArgError-__getitem__">__getitem__</a>(y)&nbsp;&lt;==&gt;&nbsp;x[y]</tt></dd></dl>
+
+<dl><dt><a name="InvalidArgError-__getslice__"><strong>__getslice__</strong></a>(...)</dt><dd><tt>x.<a href="#InvalidArgError-__getslice__">__getslice__</a>(i,&nbsp;j)&nbsp;&lt;==&gt;&nbsp;x[i:j]<br>
+&nbsp;<br>
+Use&nbsp;of&nbsp;negative&nbsp;indices&nbsp;is&nbsp;not&nbsp;supported.</tt></dd></dl>
+
+<dl><dt><a name="InvalidArgError-__reduce__"><strong>__reduce__</strong></a>(...)</dt></dl>
+
+<dl><dt><a name="InvalidArgError-__repr__"><strong>__repr__</strong></a>(...)</dt><dd><tt>x.<a href="#InvalidArgError-__repr__">__repr__</a>()&nbsp;&lt;==&gt;&nbsp;repr(x)</tt></dd></dl>
+
+<dl><dt><a name="InvalidArgError-__setattr__"><strong>__setattr__</strong></a>(...)</dt><dd><tt>x.<a href="#InvalidArgError-__setattr__">__setattr__</a>('name',&nbsp;value)&nbsp;&lt;==&gt;&nbsp;x.name&nbsp;=&nbsp;value</tt></dd></dl>
+
+<dl><dt><a name="InvalidArgError-__setstate__"><strong>__setstate__</strong></a>(...)</dt></dl>
+
+<dl><dt><a name="InvalidArgError-__unicode__"><strong>__unicode__</strong></a>(...)</dt></dl>
+
+<hr>
+Data descriptors inherited from <a href="exceptions.html#BaseException">exceptions.BaseException</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+</dl>
+<dl><dt><strong>args</strong></dt>
+</dl>
+<dl><dt><strong>message</strong></dt>
+</dl>
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="MissingArgError">class <strong>MissingArgError</strong></a>(<a href="Bigrams.html#Error">Bigrams.Error</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt>Description:&nbsp;Exception&nbsp;generated&nbsp;when&nbsp;a&nbsp;mandatory&nbsp;argument&nbsp;is&nbsp;missing<br>
+Returns:&nbsp;{'error':&nbsp;400,&nbsp;'msg':&nbsp;"'&lt;arg&gt;'&nbsp;is&nbsp;not&nbsp;set."}<br>
+&nbsp;<br>
+Examples:<br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/random_node_by_distance?ref=10">http://&lt;remote_host&gt;:&lt;port&gt;/random_node_by_distance?ref=10</a>&nbsp;(min_distance&nbsp;is&nbsp;not&nbsp;specified)<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="API.html#MissingArgError">MissingArgError</a></dd>
+<dd><a href="Bigrams.html#Error">Bigrams.Error</a></dd>
+<dd><a href="exceptions.html#Exception">exceptions.Exception</a></dd>
+<dd><a href="exceptions.html#BaseException">exceptions.BaseException</a></dd>
+<dd><a href="__builtin__.html#object">__builtin__.object</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="MissingArgError-__init__"><strong>__init__</strong></a>(self, arg)</dt></dl>
+
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>ERROR_CODE</strong> = 400</dl>
+
+<hr>
+Methods inherited from <a href="Bigrams.html#Error">Bigrams.Error</a>:<br>
+<dl><dt><a name="MissingArgError-__str__"><strong>__str__</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="MissingArgError-code"><strong>code</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="MissingArgError-trace"><strong>trace</strong></a>(self, info)</dt></dl>
+
+<hr>
+Data descriptors inherited from <a href="Bigrams.html#Error">Bigrams.Error</a>:<br>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="exceptions.html#Exception">exceptions.Exception</a>:<br>
+<dl><dt><strong>__new__</strong> = &lt;built-in method __new__ of type object&gt;<dd><tt>T.<a href="#MissingArgError-__new__">__new__</a>(S,&nbsp;...)&nbsp;-&gt;&nbsp;a&nbsp;new&nbsp;object&nbsp;with&nbsp;type&nbsp;S,&nbsp;a&nbsp;subtype&nbsp;of&nbsp;T</tt></dl>
+
+<hr>
+Methods inherited from <a href="exceptions.html#BaseException">exceptions.BaseException</a>:<br>
+<dl><dt><a name="MissingArgError-__delattr__"><strong>__delattr__</strong></a>(...)</dt><dd><tt>x.<a href="#MissingArgError-__delattr__">__delattr__</a>('name')&nbsp;&lt;==&gt;&nbsp;del&nbsp;x.name</tt></dd></dl>
+
+<dl><dt><a name="MissingArgError-__getattribute__"><strong>__getattribute__</strong></a>(...)</dt><dd><tt>x.<a href="#MissingArgError-__getattribute__">__getattribute__</a>('name')&nbsp;&lt;==&gt;&nbsp;x.name</tt></dd></dl>
+
+<dl><dt><a name="MissingArgError-__getitem__"><strong>__getitem__</strong></a>(...)</dt><dd><tt>x.<a href="#MissingArgError-__getitem__">__getitem__</a>(y)&nbsp;&lt;==&gt;&nbsp;x[y]</tt></dd></dl>
+
+<dl><dt><a name="MissingArgError-__getslice__"><strong>__getslice__</strong></a>(...)</dt><dd><tt>x.<a href="#MissingArgError-__getslice__">__getslice__</a>(i,&nbsp;j)&nbsp;&lt;==&gt;&nbsp;x[i:j]<br>
+&nbsp;<br>
+Use&nbsp;of&nbsp;negative&nbsp;indices&nbsp;is&nbsp;not&nbsp;supported.</tt></dd></dl>
+
+<dl><dt><a name="MissingArgError-__reduce__"><strong>__reduce__</strong></a>(...)</dt></dl>
+
+<dl><dt><a name="MissingArgError-__repr__"><strong>__repr__</strong></a>(...)</dt><dd><tt>x.<a href="#MissingArgError-__repr__">__repr__</a>()&nbsp;&lt;==&gt;&nbsp;repr(x)</tt></dd></dl>
+
+<dl><dt><a name="MissingArgError-__setattr__"><strong>__setattr__</strong></a>(...)</dt><dd><tt>x.<a href="#MissingArgError-__setattr__">__setattr__</a>('name',&nbsp;value)&nbsp;&lt;==&gt;&nbsp;x.name&nbsp;=&nbsp;value</tt></dd></dl>
+
+<dl><dt><a name="MissingArgError-__setstate__"><strong>__setstate__</strong></a>(...)</dt></dl>
+
+<dl><dt><a name="MissingArgError-__unicode__"><strong>__unicode__</strong></a>(...)</dt></dl>
+
+<hr>
+Data descriptors inherited from <a href="exceptions.html#BaseException">exceptions.BaseException</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+</dl>
+<dl><dt><strong>args</strong></dt>
+</dl>
+<dl><dt><strong>message</strong></dt>
+</dl>
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="NodeUnknownError">class <strong>NodeUnknownError</strong></a>(<a href="Bigrams.html#Error">Bigrams.Error</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt>Description:&nbsp;Exception&nbsp;generated&nbsp;a&nbsp;node&nbsp;contains&nbsp;a&nbsp;ref&nbsp;or&nbsp;word&nbsp;which&nbsp;is&nbsp;null<br>
+Returns:&nbsp;{'error':&nbsp;410,&nbsp;'msg':&nbsp;'Node&nbsp;contains&nbsp;missing&nbsp;ref&nbsp;or&nbsp;word'}<br>
+&nbsp;<br>
+Examples:<br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/get_node?ref=&lt;bad_ref">http://&lt;remote_host&gt;:&lt;port&gt;/get_node?ref=&lt;bad_ref</a>&gt;<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="API.html#NodeUnknownError">NodeUnknownError</a></dd>
+<dd><a href="Bigrams.html#Error">Bigrams.Error</a></dd>
+<dd><a href="exceptions.html#Exception">exceptions.Exception</a></dd>
+<dd><a href="exceptions.html#BaseException">exceptions.BaseException</a></dd>
+<dd><a href="__builtin__.html#object">__builtin__.object</a></dd>
+</dl>
+<hr>
+Methods defined here:<br>
+<dl><dt><a name="NodeUnknownError-__init__"><strong>__init__</strong></a>(self)</dt></dl>
+
+<hr>
+Data and other attributes defined here:<br>
+<dl><dt><strong>ERROR_CODE</strong> = 410</dl>
+
+<hr>
+Methods inherited from <a href="Bigrams.html#Error">Bigrams.Error</a>:<br>
+<dl><dt><a name="NodeUnknownError-__str__"><strong>__str__</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="NodeUnknownError-code"><strong>code</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="NodeUnknownError-trace"><strong>trace</strong></a>(self, info)</dt></dl>
+
+<hr>
+Data descriptors inherited from <a href="Bigrams.html#Error">Bigrams.Error</a>:<br>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="exceptions.html#Exception">exceptions.Exception</a>:<br>
+<dl><dt><strong>__new__</strong> = &lt;built-in method __new__ of type object&gt;<dd><tt>T.<a href="#NodeUnknownError-__new__">__new__</a>(S,&nbsp;...)&nbsp;-&gt;&nbsp;a&nbsp;new&nbsp;object&nbsp;with&nbsp;type&nbsp;S,&nbsp;a&nbsp;subtype&nbsp;of&nbsp;T</tt></dl>
+
+<hr>
+Methods inherited from <a href="exceptions.html#BaseException">exceptions.BaseException</a>:<br>
+<dl><dt><a name="NodeUnknownError-__delattr__"><strong>__delattr__</strong></a>(...)</dt><dd><tt>x.<a href="#NodeUnknownError-__delattr__">__delattr__</a>('name')&nbsp;&lt;==&gt;&nbsp;del&nbsp;x.name</tt></dd></dl>
+
+<dl><dt><a name="NodeUnknownError-__getattribute__"><strong>__getattribute__</strong></a>(...)</dt><dd><tt>x.<a href="#NodeUnknownError-__getattribute__">__getattribute__</a>('name')&nbsp;&lt;==&gt;&nbsp;x.name</tt></dd></dl>
+
+<dl><dt><a name="NodeUnknownError-__getitem__"><strong>__getitem__</strong></a>(...)</dt><dd><tt>x.<a href="#NodeUnknownError-__getitem__">__getitem__</a>(y)&nbsp;&lt;==&gt;&nbsp;x[y]</tt></dd></dl>
+
+<dl><dt><a name="NodeUnknownError-__getslice__"><strong>__getslice__</strong></a>(...)</dt><dd><tt>x.<a href="#NodeUnknownError-__getslice__">__getslice__</a>(i,&nbsp;j)&nbsp;&lt;==&gt;&nbsp;x[i:j]<br>
+&nbsp;<br>
+Use&nbsp;of&nbsp;negative&nbsp;indices&nbsp;is&nbsp;not&nbsp;supported.</tt></dd></dl>
+
+<dl><dt><a name="NodeUnknownError-__reduce__"><strong>__reduce__</strong></a>(...)</dt></dl>
+
+<dl><dt><a name="NodeUnknownError-__repr__"><strong>__repr__</strong></a>(...)</dt><dd><tt>x.<a href="#NodeUnknownError-__repr__">__repr__</a>()&nbsp;&lt;==&gt;&nbsp;repr(x)</tt></dd></dl>
+
+<dl><dt><a name="NodeUnknownError-__setattr__"><strong>__setattr__</strong></a>(...)</dt><dd><tt>x.<a href="#NodeUnknownError-__setattr__">__setattr__</a>('name',&nbsp;value)&nbsp;&lt;==&gt;&nbsp;x.name&nbsp;=&nbsp;value</tt></dd></dl>
+
+<dl><dt><a name="NodeUnknownError-__setstate__"><strong>__setstate__</strong></a>(...)</dt></dl>
+
+<dl><dt><a name="NodeUnknownError-__unicode__"><strong>__unicode__</strong></a>(...)</dt></dl>
+
+<hr>
+Data descriptors inherited from <a href="exceptions.html#BaseException">exceptions.BaseException</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+</dl>
+<dl><dt><strong>args</strong></dt>
+</dl>
+<dl><dt><strong>message</strong></dt>
+</dl>
+</td></tr></table> <p>
+<table width="100%" cellspacing=0 cellpadding=2 border=0 summary="section">
+<tr bgcolor="#ffc8d8">
+<td colspan=3 valign=bottom>&nbsp;<br>
+<font color="#000000" face="helvetica, arial"><a name="PathUnknownError">class <strong>PathUnknownError</strong></a>(<a href="Bigrams.html#PathUnknownError">Bigrams.PathUnknownError</a>)</font></td></tr>
+    
+<tr bgcolor="#ffc8d8"><td rowspan=2><tt>&nbsp;&nbsp;&nbsp;</tt></td>
+<td colspan=2><tt>Description:&nbsp;Exception&nbsp;generated&nbsp;when&nbsp;a&nbsp;path&nbsp;was&nbsp;not&nbsp;calculable<br>
+Returns:&nbsp;{'error':&nbsp;300,&nbsp;'msg':&nbsp;"Path&nbsp;was&nbsp;not&nbsp;calculable&nbsp;between&nbsp;refs&nbsp;'&lt;ref1&gt;'&nbsp;and&nbsp;'&lt;ref2&gt;'"}<br>
+&nbsp;<br>
+Examples:<br>
+<a href="http://&lt;remote_host&gt;:&lt;port&gt;/distace?ref1=&lt;bad_ref&gt;&amp;ref2=&lt;ref2">http://&lt;remote_host&gt;:&lt;port&gt;/distace?ref1=&lt;bad_ref&gt;&amp;ref2=&lt;ref2</a>&gt;<br>&nbsp;</tt></td></tr>
+<tr><td>&nbsp;</td>
+<td width="100%"><dl><dt>Method resolution order:</dt>
+<dd><a href="API.html#PathUnknownError">PathUnknownError</a></dd>
+<dd><a href="Bigrams.html#PathUnknownError">Bigrams.PathUnknownError</a></dd>
+<dd><a href="Bigrams.html#Error">Bigrams.Error</a></dd>
+<dd><a href="exceptions.html#Exception">exceptions.Exception</a></dd>
+<dd><a href="exceptions.html#BaseException">exceptions.BaseException</a></dd>
+<dd><a href="__builtin__.html#object">__builtin__.object</a></dd>
+</dl>
+<hr>
+Methods inherited from <a href="Bigrams.html#PathUnknownError">Bigrams.PathUnknownError</a>:<br>
+<dl><dt><a name="PathUnknownError-__init__"><strong>__init__</strong></a>(self, ref1, ref2)</dt></dl>
+
+<hr>
+Data and other attributes inherited from <a href="Bigrams.html#PathUnknownError">Bigrams.PathUnknownError</a>:<br>
+<dl><dt><strong>ERROR_CODE</strong> = 300</dl>
+
+<hr>
+Methods inherited from <a href="Bigrams.html#Error">Bigrams.Error</a>:<br>
+<dl><dt><a name="PathUnknownError-__str__"><strong>__str__</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="PathUnknownError-code"><strong>code</strong></a>(self)</dt></dl>
+
+<dl><dt><a name="PathUnknownError-trace"><strong>trace</strong></a>(self, info)</dt></dl>
+
+<hr>
+Data descriptors inherited from <a href="Bigrams.html#Error">Bigrams.Error</a>:<br>
+<dl><dt><strong>__weakref__</strong></dt>
+<dd><tt>list&nbsp;of&nbsp;weak&nbsp;references&nbsp;to&nbsp;the&nbsp;object&nbsp;(if&nbsp;defined)</tt></dd>
+</dl>
+<hr>
+Data and other attributes inherited from <a href="exceptions.html#Exception">exceptions.Exception</a>:<br>
+<dl><dt><strong>__new__</strong> = &lt;built-in method __new__ of type object&gt;<dd><tt>T.<a href="#PathUnknownError-__new__">__new__</a>(S,&nbsp;...)&nbsp;-&gt;&nbsp;a&nbsp;new&nbsp;object&nbsp;with&nbsp;type&nbsp;S,&nbsp;a&nbsp;subtype&nbsp;of&nbsp;T</tt></dl>
+
+<hr>
+Methods inherited from <a href="exceptions.html#BaseException">exceptions.BaseException</a>:<br>
+<dl><dt><a name="PathUnknownError-__delattr__"><strong>__delattr__</strong></a>(...)</dt><dd><tt>x.<a href="#PathUnknownError-__delattr__">__delattr__</a>('name')&nbsp;&lt;==&gt;&nbsp;del&nbsp;x.name</tt></dd></dl>
+
+<dl><dt><a name="PathUnknownError-__getattribute__"><strong>__getattribute__</strong></a>(...)</dt><dd><tt>x.<a href="#PathUnknownError-__getattribute__">__getattribute__</a>('name')&nbsp;&lt;==&gt;&nbsp;x.name</tt></dd></dl>
+
+<dl><dt><a name="PathUnknownError-__getitem__"><strong>__getitem__</strong></a>(...)</dt><dd><tt>x.<a href="#PathUnknownError-__getitem__">__getitem__</a>(y)&nbsp;&lt;==&gt;&nbsp;x[y]</tt></dd></dl>
+
+<dl><dt><a name="PathUnknownError-__getslice__"><strong>__getslice__</strong></a>(...)</dt><dd><tt>x.<a href="#PathUnknownError-__getslice__">__getslice__</a>(i,&nbsp;j)&nbsp;&lt;==&gt;&nbsp;x[i:j]<br>
+&nbsp;<br>
+Use&nbsp;of&nbsp;negative&nbsp;indices&nbsp;is&nbsp;not&nbsp;supported.</tt></dd></dl>
+
+<dl><dt><a name="PathUnknownError-__reduce__"><strong>__reduce__</strong></a>(...)</dt></dl>
+
+<dl><dt><a name="PathUnknownError-__repr__"><strong>__repr__</strong></a>(...)</dt><dd><tt>x.<a href="#PathUnknownError-__repr__">__repr__</a>()&nbsp;&lt;==&gt;&nbsp;repr(x)</tt></dd></dl>
+
+<dl><dt><a name="PathUnknownError-__setattr__"><strong>__setattr__</strong></a>(...)</dt><dd><tt>x.<a href="#PathUnknownError-__setattr__">__setattr__</a>('name',&nbsp;value)&nbsp;&lt;==&gt;&nbsp;x.name&nbsp;=&nbsp;value</tt></dd></dl>
+
+<dl><dt><a name="PathUnknownError-__setstate__"><strong>__setstate__</strong></a>(...)</dt></dl>
+
+<dl><dt><a name="PathUnknownError-__unicode__"><strong>__unicode__</strong></a>(...)</dt></dl>
+
+<hr>
+Data descriptors inherited from <a href="exceptions.html#BaseException">exceptions.BaseException</a>:<br>
+<dl><dt><strong>__dict__</strong></dt>
+</dl>
+<dl><dt><strong>args</strong></dt>
+</dl>
+<dl><dt><strong>message</strong></dt>
+</dl>
+</td></tr></table></td></tr></table>
+</body></html>

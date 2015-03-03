@@ -1,0 +1,26 @@
+<!DOCTYPE html>
+<html>
+<head>
+  <script src="http://code.jquery.com/jquery-latest.js"></script>
+</head>
+<body>
+<h3>Test Add:</h3>
+<script>
+  $.getJSON("http://www.nspacelabs.com:8080/about",
+
+  {word:'bacon'},
+
+  function(data) {
+  var items = [];
+
+  $.each(data, function(key, val) {
+    items.push('<li><b>'+ key +':</b> '+ val +'</li>');
+  });
+  $('<ul/>', {
+    'class': 'results',
+    html: items.join('')
+  }).appendTo('body');
+});
+</script>
+</body>
+</html>

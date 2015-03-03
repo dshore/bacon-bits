@@ -1,0 +1,946 @@
+user-0cevd3b.cable.mindspring.com - - [25/Jan/2012 22:10:55] "GET /about HTTP/1.1" 200 52
+user-0cevd3b.cable.mindspring.com - - [25/Jan/2012 22:10:56] "GET /favicon.ico HTTP/1.1" 200 0
+user-0cevd3b.cable.mindspring.com - - [25/Jan/2012 22:11:01] "GET /about?word=bacon HTTP/1.1" 200 52
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:11:25] "GET /about HTTP/1.1" 200 52
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:11:36] "GET /about HTTP/1.1" 200 52
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:12:44] "GET /about HTTP/1.1" 200 52
+user-0cevd3b.cable.mindspring.com - - [25/Jan/2012 22:14:14] "GET /about?word=bacon HTTP/1.1" 200 52
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:14:19] "GET /about HTTP/1.1" 200 52
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:19:05] "GET /about HTTP/1.1" 200 52
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:19:36] "GET /about HTTP/1.1" 200 52
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:21:50] "GET /about HTTP/1.1" 200 52
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:21:50] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:22:03] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:30:42] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:31:04] "GET /random_node HTTP/1.1" 200 43
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:31:30] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:31:30] "GET /random_node_by_distancejQuery17109440019880732881_1327548688850ref=21906&min_distance=1&max_distance=2?_=1327548690485 HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:32:01] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:32:01] "GET /random_node_by_distancejQuery171014447158035136543_1327548719235ref=138217&min_distance=1&max_distance=2?_=1327548721197 HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:33:37] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:33:37] "GET /random_node_by_distancejQuery17107321643163450062_1327548815588ref=82640&min_distance=1&max_distance=2?_=1327548817192 HTTP/1.1" 200 0
+201.22.164.228.static.gvt.net.br - - [25/Jan/2012 22:33:56] "HEAD / HTTP/1.0" 200 0
+201.22.164.228.static.gvt.net.br - - [25/Jan/2012 22:33:56] "HEAD / HTTP/1.0" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:33:56] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:33:56] "GET /random_node_by_distancejQuery17100816264654954103_1327548834992ref=41908&min_distance=1&max_distance=2?_=1327548836817 HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:36:16] "GET /random_node HTTP/1.1" 200 41
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:36:16] "GET /random_node_by_distancejQuery17106382106153887249_1327548974646ref=99678&min_distance=1&max_distance=2?_=1327548976733 HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:36:51] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:36:51] "GET /random_node_by_distancejQuery17106071002359726784_1327549003838ref=95682&min_distance=1&max_distance=2?_=1327549011754 HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:36:53] "GET /random_node HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:36:53] "GET /random_node_by_distancejQuery1710030234454954495393_1327549012440ref=105467&min_distance=1&max_distance=2?_=1327549013742 HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:37:57] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:37:58] "GET /random_node_by_distancejQuery17106137509879190475_1327549075064ref=144508&min_distance=1&max_distance=2?_=1327549078852 HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:38:24] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:38:32] "GET /random_node HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:38:52] "GET /random_node_by_distancejQuery17103777380585670471_1327549110611ref=12571&min_distance=1&max_distance=2?_=1327549132728 HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:38:54] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:38:54] "GET /random_node_by_distance?ref=27212&min_distance=1&max_distance=2 HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:39:19] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:39:19] "GET /random_node_by_distance?ref=92812&min_distance=1&max_distance=2 HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:40:00] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:40:00] "GET /random_node_by_distance?ref=67908&min_distance=1&max_distance=2 HTTP/1.1" 200 32
+user-0cevd3b.cable.mindspring.com - - [25/Jan/2012 22:43:33] "GET /about?word=bacon HTTP/1.1" 200 52
+user-0cevd3b.cable.mindspring.com - - [25/Jan/2012 22:48:51] "GET /about HTTP/1.1" 200 52
+user-0cevd3b.cable.mindspring.com - - [25/Jan/2012 22:48:51] "GET /favicon.ico HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:56:07] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 22:56:38] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:07:33] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:07:33] "GET /random_node_by_distancefunction%20()%20%7B%20%20%20%20var%20urlDataString%20=%20%22?%22;%20%20%20%20$.each(this,%20function%20(key,%20value)%20{urlDataString%20+=%20key%20+%20%22=%22%20+%20value%20+%20%22&%22;});%20%20%20%20urlDataString%20=%20urlDataString.substr(0,%20urlDataString.length%20-%201);%20%20%20%20return%20urlDataString;} HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:08:30] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:08:37] "GET /random_node_by_distancefunction%20()%20%7B%20%20%20%20var%20urlDataString%20=%20%22?%22;%20%20%20%20$.each(this,%20function%20(key,%20value)%20{urlDataString%20+=%20key%20+%20%22=%22%20+%20value%20+%20%22&%22;});%20%20%20%20urlDataString%20=%20urlDataString.substr(0,%20urlDataString.length%20-%201);%20%20%20%20return%20urlDataString;} HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:10:20] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:10:28] "GET /random_node_by_distancefunction%20()%20%7B%20%20%20%20return%20%22?%22%20+%20$.each(this,%20function%20(key,%20value)%20{urlDataString%20+=%20key%20+%20%22=%22%20+%20value%20+%20%22&%22;});} HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:10:46] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:11:57] "GET /random_node HTTP/1.1" 200 43
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 640, in random_node_by_distance
+    path = self.shortest_paths((ref, tail[0]))
+  File "/home/doug/games/bacon/Bigrams.py", line 624, in shortest_paths
+    self.paths_[key] = nx.shortest_path(self._graph(), source=key[0], target=key[1])
+  File "/usr/local/lib/python2.7/site-packages/networkx-1.6rc1-py2.7.egg/networkx/algorithms/shortest_paths/generic.py", line 114, in shortest_path
+    "Target given but no source specified.")
+NetworkXError: Target given but no source specified.
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:12:00] "GET /random_node_by_distance? HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:12:23] "GET /random_node HTTP/1.1" 200 37
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 640, in random_node_by_distance
+    path = self.shortest_paths((ref, tail[0]))
+  File "/home/doug/games/bacon/Bigrams.py", line 624, in shortest_paths
+    self.paths_[key] = nx.shortest_path(self._graph(), source=key[0], target=key[1])
+  File "/usr/local/lib/python2.7/site-packages/networkx-1.6rc1-py2.7.egg/networkx/algorithms/shortest_paths/generic.py", line 114, in shortest_path
+    "Target given but no source specified.")
+NetworkXError: Target given but no source specified.
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:12:25] "GET /random_node_by_distance? HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:15:16] "GET /random_node HTTP/1.1" 200 34
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 640, in random_node_by_distance
+    path = self.shortest_paths((ref, tail[0]))
+  File "/home/doug/games/bacon/Bigrams.py", line 624, in shortest_paths
+    self.paths_[key] = nx.shortest_path(self._graph(), source=key[0], target=key[1])
+  File "/usr/local/lib/python2.7/site-packages/networkx-1.6rc1-py2.7.egg/networkx/algorithms/shortest_paths/generic.py", line 114, in shortest_path
+    "Target given but no source specified.")
+NetworkXError: Target given but no source specified.
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:15:16] "GET /random_node_by_distance?[object%20Window] HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:16:08] "GET /random_node HTTP/1.1" 200 30
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 640, in random_node_by_distance
+    path = self.shortest_paths((ref, tail[0]))
+  File "/home/doug/games/bacon/Bigrams.py", line 624, in shortest_paths
+    self.paths_[key] = nx.shortest_path(self._graph(), source=key[0], target=key[1])
+  File "/usr/local/lib/python2.7/site-packages/networkx-1.6rc1-py2.7.egg/networkx/algorithms/shortest_paths/generic.py", line 114, in shortest_path
+    "Target given but no source specified.")
+NetworkXError: Target given but no source specified.
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:16:10] "GET /random_node_by_distance?[object%20Window] HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:16:40] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:16:56] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:17:03] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:17:34] "GET /random_node HTTP/1.1" 200 35
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 640, in random_node_by_distance
+    path = self.shortest_paths((ref, tail[0]))
+  File "/home/doug/games/bacon/Bigrams.py", line 624, in shortest_paths
+    self.paths_[key] = nx.shortest_path(self._graph(), source=key[0], target=key[1])
+  File "/usr/local/lib/python2.7/site-packages/networkx-1.6rc1-py2.7.egg/networkx/algorithms/shortest_paths/generic.py", line 114, in shortest_path
+    "Target given but no source specified.")
+NetworkXError: Target given but no source specified.
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:17:36] "GET /random_node_by_distance?[object%20Object] HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:18:06] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:18:08] "GET /random_node_by_distance%5Bobject%20Object%5D HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:18:54] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:18:55] "GET /random_node_by_distance%5Bobject%20Object%5D HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:19:38] "GET /random_node HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:19:40] "GET /random_node_by_distance%5Bobject%20Object%5D HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:20:45] "GET /random_node HTTP/1.1" 200 42
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:20:45] "GET /random_node_by_distance%5Bobject%20Object%5D HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:20:56] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:20:56] "GET /random_node_by_distance[object%20Object] HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:21:58] "GET /random_node HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:21:58] "GET /random_node_by_distance[object%20Object] HTTP/1.1" 200 0
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:22:57] "GET /random_node HTTP/1.1" 200 39
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:22:57] "GET /random_node_by_distance?ref=95242&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:23:04] "GET /random_node HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:23:04] "GET /random_node_by_distance?ref=141612&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:27:06] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:27:06] "GET /random_node_by_distance?ref=719&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:27:06] "GET /shortest_path?ref1=719&ref2=76301& HTTP/1.1" 200 29
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:28:20] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:28:20] "GET /random_node_by_distance?ref=5225&min_distance=1&max_distance=2& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:28:20] "GET /shortest_path?ref1=5225&ref2=83197& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:29:07] "GET /random_node HTTP/1.1" 200 41
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:29:07] "GET /random_node_by_distance?ref=88272&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:29:07] "GET /shortest_path?ref1=88272&ref2=85825& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:29:25] "GET /random_node HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:29:26] "GET /random_node_by_distance?ref=131461&min_distance=1&max_distance=2& HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:29:26] "GET /shortest_path?ref1=131461&ref2=93714& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:29:35] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:29:36] "GET /random_node_by_distance?ref=143199&min_distance=1&max_distance=2& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:29:36] "GET /shortest_path?ref1=143199&ref2=80925& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:37:13] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:37:13] "GET /random_node_by_distance?ref=4501&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:37:13] "GET /shortest_path?ref1=4501&ref2=122841& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:37:24] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:37:24] "GET /random_node_by_distance?ref=76256&min_distance=1&max_distance=2& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:37:24] "GET /shortest_path?ref1=76256&ref2=22321& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:38:06] "GET /random_node HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:38:06] "GET /random_node_by_distance?ref=14881&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:38:06] "GET /shortest_path?ref1=14881&ref2=5782& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:39:36] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:39:36] "GET /random_node_by_distance?ref=62559&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:39:36] "GET /shortest_path?ref1=62559&ref2=116935& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:39:51] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:39:51] "GET /random_node_by_distance?ref=127490&min_distance=1&max_distance=2& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:39:51] "GET /shortest_path?ref1=127490&ref2=11717& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:40:41] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:40:41] "GET /random_node_by_distance?ref=133658&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:40:41] "GET /shortest_path?ref1=133658&ref2=125026& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:42:23] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:42:23] "GET /random_node_by_distance?ref=137985&min_distance=1&max_distance=2& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:42:23] "GET /shortest_path?ref1=137985&ref2=11521& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:42:39] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:42:39] "GET /random_node_by_distance?ref=75259&min_distance=1&max_distance=2& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:42:39] "GET /shortest_path?ref1=75259&ref2=105159& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:47:58] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:47:58] "GET /random_node_by_distance?ref=95137&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:47:58] "GET /shortest_path?ref1=95137&ref2=100248& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:48:21] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:48:21] "GET /random_node_by_distance?ref=71186&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:48:21] "GET /shortest_path?ref1=71186&ref2=677& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:50:27] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:50:27] "GET /random_node_by_distance?ref=24946&min_distance=1&max_distance=2& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:50:27] "GET /shortest_path?ref1=24946&ref2=145833& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:18] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:18] "GET /random_node_by_distance?ref=6199&min_distance=1&max_distance=2& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:18] "GET /shortest_path?ref1=6199&ref2=87138& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:20] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:20] "GET /random_node_by_distance?ref=27460&min_distance=1&max_distance=2& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:20] "GET /shortest_path?ref1=27460&ref2=9056& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:21] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:22] "GET /random_node_by_distance?ref=78513&min_distance=1&max_distance=2& HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:22] "GET /shortest_path?ref1=78513&ref2=69127& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:22] "GET /random_node HTTP/1.1" 200 29
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:23] "GET /random_node_by_distance?ref=99103&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:23] "GET /shortest_path?ref1=99103&ref2=72704& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:23] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:23] "GET /random_node_by_distance?ref=17902&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:23] "GET /shortest_path?ref1=17902&ref2=1093& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:24] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:24] "GET /random_node_by_distance?ref=83598&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:24] "GET /shortest_path?ref1=83598&ref2=45696& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:25] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:27] "GET /random_node_by_distance?ref=74239&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:27] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:28] "GET /shortest_path?ref1=74239&ref2=145995& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:28] "GET /random_node_by_distance?ref=5713&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:28] "GET /shortest_path?ref1=5713&ref2=128813& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:29] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:29] "GET /random_node_by_distance?ref=129753&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:29] "GET /shortest_path?ref1=129753&ref2=101395& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:31] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:31] "GET /random_node_by_distance?ref=146503&min_distance=1&max_distance=2& HTTP/1.1" 200 29
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:31] "GET /shortest_path?ref1=146503&ref2=94744& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:32] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:32] "GET /random_node_by_distance?ref=145364&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:55:32] "GET /shortest_path?ref1=145364&ref2=125983& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:56:56] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:56:56] "GET /random_node_by_distance?ref=112866&min_distance=1&max_distance=2& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:56:56] "GET /shortest_path?ref1=112866&ref2=103004& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:56:57] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:56:57] "GET /random_node_by_distance?ref=21713&min_distance=1&max_distance=2& HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:56:57] "GET /shortest_path?ref1=21713&ref2=103306& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:56:58] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:56:58] "GET /random_node_by_distance?ref=135570&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:56:58] "GET /shortest_path?ref1=135570&ref2=92453& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:56:59] "GET /random_node HTTP/1.1" 200 35
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:59:51] "GET /random_node_by_distance?ref=74742&min_distance=1&max_distance=2& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:59:51] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:59:51] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:59:51] "GET /random_node_by_distance?ref=142526&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [25/Jan/2012 23:59:51] "GET /shortest_path?ref1=142526&ref2=25136& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:00:00] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:00:00] "GET /random_node_by_distance?ref=143406&min_distance=1&max_distance=2& HTTP/1.1" 200 29
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:00:00] "GET /shortest_path?ref1=143406&ref2=40367& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:00:03] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:00:03] "GET /random_node_by_distance?ref=144113&min_distance=1&max_distance=2& HTTP/1.1" 200 29
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:00:03] "GET /shortest_path?ref1=144113&ref2=14361& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:03:20] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:03:21] "GET /random_node_by_distance?ref=52615&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:03:21] "GET /shortest_path?ref1=52615&ref2=39714& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:03:57] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:03:57] "GET /random_node_by_distance?ref=16207&min_distance=1&max_distance=2& HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:03:57] "GET /shortest_path?ref1=16207&ref2=59100& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:04:00] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:04:00] "GET /random_node_by_distance?ref=68974&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:04:00] "GET /shortest_path?ref1=68974&ref2=36976& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:06:47] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:06:47] "GET /random_node_by_distance?ref=10014&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:06:47] "GET /shortest_path?ref1=10014&ref2=65540& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:06:49] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:06:49] "GET /random_node_by_distance?ref=145166&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:06:49] "GET /shortest_path?ref1=145166&ref2=26166& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:20] "GET /random_node HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:20] "GET /random_node_by_distance?ref=124817&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:20] "GET /shortest_path?ref1=124817&ref2=23120& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:22] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:22] "GET /random_node_by_distance?ref=37002&min_distance=1&max_distance=2& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:22] "GET /shortest_path?ref1=37002&ref2=126471& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:23] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:23] "GET /random_node_by_distance?ref=86703&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:23] "GET /shortest_path?ref1=86703&ref2=119886& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:24] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:24] "GET /random_node_by_distance?ref=29168&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:24] "GET /shortest_path?ref1=29168&ref2=23120& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:25] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:25] "GET /random_node_by_distance?ref=110805&min_distance=1&max_distance=2& HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:25] "GET /shortest_path?ref1=110805&ref2=29872& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:26] "GET /random_node HTTP/1.1" 200 41
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:26] "GET /random_node_by_distance?ref=105735&min_distance=1&max_distance=2& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:26] "GET /shortest_path?ref1=105735&ref2=116011& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:27] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:27] "GET /random_node_by_distance?ref=92291&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:27] "GET /shortest_path?ref1=92291&ref2=126916& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:27] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:28] "GET /random_node_by_distance?ref=52057&min_distance=1&max_distance=2& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:28] "GET /shortest_path?ref1=52057&ref2=115476& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:28] "GET /random_node HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:28] "GET /random_node_by_distance?ref=38227&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:28] "GET /shortest_path?ref1=38227&ref2=14468& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:29] "GET /random_node HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:29] "GET /random_node_by_distance?ref=32606&min_distance=1&max_distance=2& HTTP/1.1" 200 39
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:29] "GET /shortest_path?ref1=32606&ref2=27244& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:30] "GET /random_node HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:30] "GET /random_node_by_distance?ref=126439&min_distance=1&max_distance=2& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:30] "GET /shortest_path?ref1=126439&ref2=134901& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:31] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:31] "GET /random_node_by_distance?ref=22462&min_distance=1&max_distance=2& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:31] "GET /shortest_path?ref1=22462&ref2=87138& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:44] "GET /random_node HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:44] "GET /random_node_by_distance?ref=62672&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:44] "GET /shortest_path?ref1=62672&ref2=59522& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:45] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:45] "GET /random_node_by_distance?ref=16470&min_distance=1&max_distance=2& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:45] "GET /shortest_path?ref1=16470&ref2=59145& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:48] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:48] "GET /random_node_by_distance?ref=63254&min_distance=1&max_distance=2& HTTP/1.1" 200 29
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:48] "GET /shortest_path?ref1=63254&ref2=45230& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:50] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:51] "GET /random_node_by_distance?ref=11222&min_distance=1&max_distance=2& HTTP/1.1" 200 29
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:51] "GET /shortest_path?ref1=11222&ref2=64342& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:52] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:52] "GET /random_node_by_distance?ref=102714&min_distance=1&max_distance=2& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:52] "GET /shortest_path?ref1=102714&ref2=126620& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:53] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:53] "GET /random_node_by_distance?ref=82409&min_distance=1&max_distance=2& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:53] "GET /shortest_path?ref1=82409&ref2=100987& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:54] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:54] "GET /random_node_by_distance?ref=138017&min_distance=1&max_distance=2& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:54] "GET /shortest_path?ref1=138017&ref2=111781& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:55] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:55] "GET /random_node_by_distance?ref=82332&min_distance=1&max_distance=2& HTTP/1.1" 200 29
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:55] "GET /shortest_path?ref1=82332&ref2=45230& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:55] "GET /random_node HTTP/1.1" 200 39
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:56] "GET /random_node_by_distance?ref=99364&min_distance=1&max_distance=2& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:07:56] "GET /shortest_path?ref1=99364&ref2=57893& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:28] "GET /random_node HTTP/1.1" 200 39
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:28] "GET /random_node_by_distance?ref=107102&min_distance=1&max_distance=4& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:28] "GET /shortest_path?ref1=107102&ref2=10643& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:29] "GET /random_node HTTP/1.1" 200 29
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:29] "GET /random_node_by_distance?ref=13459&min_distance=1&max_distance=4& HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:29] "GET /shortest_path?ref1=13459&ref2=67337& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:30] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:30] "GET /random_node_by_distance?ref=70888&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:30] "GET /shortest_path?ref1=70888&ref2=92071& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:31] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:31] "GET /random_node_by_distance?ref=115253&min_distance=1&max_distance=4& HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:31] "GET /shortest_path?ref1=115253&ref2=94511& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:51] "GET /random_node HTTP/1.1" 200 37
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:09:51] "GET /random_node_by_distance?ref=100080&min_distance=1&max_distance=6& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:10:06] "GET /random_node HTTP/1.1" 200 36
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:10:06] "GET /random_node_by_distance?ref=136761&min_distance=1&max_distance=6& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:10:57] "GET /random_node HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:10:57] "GET /random_node_by_distance?ref=60986&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:10:58] "GET /shortest_path?ref1=60986&ref2=96878& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:10:59] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:00] "GET /random_node_by_distance?ref=20019&min_distance=1&max_distance=4& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:00] "GET /shortest_path?ref1=20019&ref2=109930& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:01] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:01] "GET /random_node_by_distance?ref=133976&min_distance=1&max_distance=4& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:01] "GET /shortest_path?ref1=133976&ref2=61775& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:01] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:02] "GET /random_node_by_distance?ref=121100&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:02] "GET /shortest_path?ref1=121100&ref2=146470& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:02] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:03] "GET /random_node_by_distance?ref=36839&min_distance=1&max_distance=4& HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:03] "GET /shortest_path?ref1=36839&ref2=67820& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:03] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:03] "GET /random_node_by_distance?ref=60984&min_distance=1&max_distance=4& HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:03] "GET /shortest_path?ref1=60984&ref2=35030& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:10] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:10] "GET /random_node_by_distance?ref=61133&min_distance=1&max_distance=4& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:10] "GET /shortest_path?ref1=61133&ref2=63886& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:11] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:11] "GET /random_node_by_distance?ref=93242&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:11] "GET /shortest_path?ref1=93242&ref2=127009& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:12] "GET /random_node HTTP/1.1" 200 32
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:12] "GET /random_node_by_distance?ref=70259&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:16] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:16] "GET /random_node_by_distance?ref=67044&min_distance=1&max_distance=4& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:16] "GET /shortest_path?ref1=67044&ref2=25329& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:17] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:17] "GET /random_node_by_distance?ref=116545&min_distance=1&max_distance=4& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:17] "GET /shortest_path?ref1=116545&ref2=1166& HTTP/1.1" 200 43
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:19] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:19] "GET /random_node_by_distance?ref=107653&min_distance=1&max_distance=4& HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:19] "GET /shortest_path?ref1=107653&ref2=138151& HTTP/1.1" 200 49
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:19] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:19] "GET /random_node_by_distance?ref=69109&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:19] "GET /shortest_path?ref1=69109&ref2=119679& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:20] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:20] "GET /random_node_by_distance?ref=71528&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:11:20] "GET /shortest_path?ref1=71528&ref2=83527& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:14:44] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:14:44] "GET /random_node_by_distance?ref=130745&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:14:45] "GET /shortest_path?ref1=130745&ref2=126941& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:23] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:23] "GET /random_node_by_distance?ref=37470&min_distance=1&max_distance=4& HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:23] "GET /shortest_path?ref1=37470&ref2=134578& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:24] "GET /random_node HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:24] "GET /random_node_by_distance?ref=44822&min_distance=1&max_distance=4& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:24] "GET /shortest_path?ref1=44822&ref2=2326& HTTP/1.1" 200 43
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:25] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:25] "GET /random_node_by_distance?ref=122195&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:25] "GET /shortest_path?ref1=122195&ref2=69267& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:26] "GET /random_node HTTP/1.1" 200 37
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:26] "GET /random_node_by_distance?ref=69783&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:28] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:28] "GET /random_node_by_distance?ref=109859&min_distance=1&max_distance=4& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:28] "GET /shortest_path?ref1=109859&ref2=118067& HTTP/1.1" 200 49
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:30] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:30] "GET /random_node_by_distance?ref=88094&min_distance=1&max_distance=4& HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:30] "GET /shortest_path?ref1=88094&ref2=1442& HTTP/1.1" 200 44
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:30] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:31] "GET /random_node_by_distance?ref=144752&min_distance=1&max_distance=4& HTTP/1.1" 200 39
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:31] "GET /shortest_path?ref1=144752&ref2=47379& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:31] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:31] "GET /random_node_by_distance?ref=141181&min_distance=1&max_distance=4& HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:32] "GET /shortest_path?ref1=141181&ref2=116184& HTTP/1.1" 200 50
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:32] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:33] "GET /random_node_by_distance?ref=116155&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:33] "GET /shortest_path?ref1=116155&ref2=4950& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:33] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:33] "GET /random_node_by_distance?ref=36692&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:34] "GET /shortest_path?ref1=36692&ref2=114576& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:34] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:34] "GET /random_node_by_distance?ref=65623&min_distance=1&max_distance=4& HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:34] "GET /shortest_path?ref1=65623&ref2=60237& HTTP/1.1" 200 44
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:35] "GET /random_node HTTP/1.1" 200 41
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:35] "GET /random_node_by_distance?ref=117776&min_distance=1&max_distance=4& HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:35] "GET /shortest_path?ref1=117776&ref2=30255& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:36] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:36] "GET /random_node_by_distance?ref=8041&min_distance=1&max_distance=4& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:36] "GET /shortest_path?ref1=8041&ref2=44325& HTTP/1.1" 200 42
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:37] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:37] "GET /random_node_by_distance?ref=4198&min_distance=1&max_distance=4& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:37] "GET /shortest_path?ref1=4198&ref2=19868& HTTP/1.1" 200 44
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:38] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:38] "GET /random_node_by_distance?ref=15890&min_distance=1&max_distance=4& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:38] "GET /shortest_path?ref1=15890&ref2=42601& HTTP/1.1" 200 44
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:39] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:39] "GET /random_node_by_distance?ref=127831&min_distance=1&max_distance=4& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:39] "GET /shortest_path?ref1=127831&ref2=95129& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:40] "GET /random_node HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:40] "GET /random_node_by_distance?ref=15851&min_distance=1&max_distance=4& HTTP/1.1" 200 39
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:40] "GET /shortest_path?ref1=15851&ref2=124991& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:43] "GET /random_node HTTP/1.1" 200 39
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:43] "GET /random_node_by_distance?ref=23154&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:43] "GET /shortest_path?ref1=23154&ref2=38112& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:44] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:44] "GET /random_node_by_distance?ref=65598&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:44] "GET /shortest_path?ref1=65598&ref2=139975& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:45] "GET /random_node HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:45] "GET /random_node_by_distance?ref=49381&min_distance=1&max_distance=4& HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:46] "GET /shortest_path?ref1=49381&ref2=5160& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:46] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:46] "GET /random_node_by_distance?ref=16515&min_distance=1&max_distance=4& HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:47] "GET /shortest_path?ref1=16515&ref2=37672& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:47] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:47] "GET /random_node_by_distance?ref=100982&min_distance=1&max_distance=4& HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:48] "GET /shortest_path?ref1=100982&ref2=17442& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:48] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:48] "GET /random_node_by_distance?ref=77607&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:49] "GET /shortest_path?ref1=77607&ref2=132986& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:49] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:49] "GET /random_node_by_distance?ref=16134&min_distance=1&max_distance=4& HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:50] "GET /shortest_path?ref1=16134&ref2=45029& HTTP/1.1" 200 44
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:50] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:50] "GET /random_node_by_distance?ref=19599&min_distance=1&max_distance=4& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:51] "GET /shortest_path?ref1=19599&ref2=113427& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:51] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:51] "GET /random_node_by_distance?ref=92914&min_distance=1&max_distance=4& HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:52] "GET /shortest_path?ref1=92914&ref2=97305& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:52] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:53] "GET /random_node_by_distance?ref=133357&min_distance=1&max_distance=4& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:15:53] "GET /shortest_path?ref1=133357&ref2=102074& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:19] "GET /random_node HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:19] "GET /random_node_by_distance?ref=134842&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:19] "GET /shortest_path?ref1=134842&ref2=1159& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:20] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:20] "GET /random_node_by_distance?ref=16178&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:20] "GET /shortest_path?ref1=16178&ref2=39073& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:21] "GET /random_node HTTP/1.1" 200 34
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:21] "GET /random_node_by_distance?ref=36256&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:23] "GET /random_node HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:23] "GET /random_node_by_distance?ref=43577&min_distance=1&max_distance=4& HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:23] "GET /shortest_path?ref1=43577&ref2=69851& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:24] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:24] "GET /random_node_by_distance?ref=138723&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:24] "GET /shortest_path?ref1=138723&ref2=142947& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:25] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:25] "GET /random_node_by_distance?ref=68409&min_distance=1&max_distance=4& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:25] "GET /shortest_path?ref1=68409&ref2=39791& HTTP/1.1" 200 44
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:26] "GET /random_node HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:26] "GET /random_node_by_distance?ref=76531&min_distance=1&max_distance=4& HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:26] "GET /shortest_path?ref1=76531&ref2=126118& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:29] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:29] "GET /random_node_by_distance?ref=31344&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:29] "GET /shortest_path?ref1=31344&ref2=6035& HTTP/1.1" 200 43
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:30] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:30] "GET /random_node_by_distance?ref=121234&min_distance=1&max_distance=4& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:30] "GET /shortest_path?ref1=121234&ref2=73420& HTTP/1.1" 200 49
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:31] "GET /random_node HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:31] "GET /random_node_by_distance?ref=130920&min_distance=1&max_distance=4& HTTP/1.1" 200 29
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:31] "GET /shortest_path?ref1=130920&ref2=81318& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:37] "GET /random_node HTTP/1.1" 200 33
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:37] "GET /random_node_by_distance?ref=110648&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:16:38] "GET /random_node HTTP/1.1" 200 34
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:26] "GET /random_node_by_distance?ref=110925&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:26] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:26] "GET /random_node HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:26] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /random_node_by_distance?ref=16288&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /random_node_by_distance?ref=101530&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /shortest_path?ref1=16288&ref2=31704& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /random_node_by_distance?ref=94620&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /random_node HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /shortest_path?ref1=101530&ref2=102107& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /shortest_path?ref1=94620&ref2=53438& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /random_node HTTP/1.1" 200 33
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /random_node_by_distance?ref=134742&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /random_node_by_distance?ref=41219&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /random_node_by_distance?ref=128651&min_distance=1&max_distance=4& HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /shortest_path?ref1=41219&ref2=82645& HTTP/1.1" 200 44
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:27] "GET /shortest_path?ref1=128651&ref2=129753& HTTP/1.1" 200 49
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:29] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:30] "GET /random_node_by_distance?ref=76598&min_distance=1&max_distance=4& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:30] "GET /shortest_path?ref1=76598&ref2=37314& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:31] "GET /random_node HTTP/1.1" 200 32
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:31] "GET /random_node_by_distance?ref=42740&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:44] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:44] "GET /random_node_by_distance?ref=30612&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:44] "GET /shortest_path?ref1=30612&ref2=22729& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:45] "GET /random_node HTTP/1.1" 200 41
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:45] "GET /random_node_by_distance?ref=134661&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:45] "GET /shortest_path?ref1=134661&ref2=15266& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:46] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:47] "GET /random_node_by_distance?ref=114576&min_distance=1&max_distance=4& HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:47] "GET /shortest_path?ref1=114576&ref2=64870& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:47] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:48] "GET /random_node_by_distance?ref=63243&min_distance=1&max_distance=4& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:48] "GET /shortest_path?ref1=63243&ref2=109983& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:49] "GET /random_node HTTP/1.1" 200 37
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:49] "GET /random_node_by_distance?ref=146305&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:50] "GET /random_node HTTP/1.1" 200 33
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:51] "GET /random_node_by_distance?ref=13835&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:52] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:52] "GET /random_node_by_distance?ref=90877&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:52] "GET /shortest_path?ref1=90877&ref2=89508& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:53] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:53] "GET /random_node_by_distance?ref=15607&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:53] "GET /shortest_path?ref1=15607&ref2=44673& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:54] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:54] "GET /random_node_by_distance?ref=117366&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:54] "GET /shortest_path?ref1=117366&ref2=10303& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:57] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:57] "GET /random_node_by_distance?ref=39054&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:58] "GET /shortest_path?ref1=39054&ref2=85825& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:59] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:59] "GET /random_node_by_distance?ref=113054&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:17:59] "GET /shortest_path?ref1=113054&ref2=109774& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:20:48] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:20:48] "GET /random_node_by_distance?ref=23991&min_distance=1&max_distance=4& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:20:48] "GET /shortest_path?ref1=23991&ref2=11534& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:20:49] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:20:49] "GET /random_node_by_distance?ref=106733&min_distance=1&max_distance=4& HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:20:50] "GET /shortest_path?ref1=106733&ref2=139016& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:21:51] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:21:51] "GET /random_node_by_distance?ref=33635&min_distance=1&max_distance=4& HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:21:51] "GET /shortest_path?ref1=33635&ref2=99707& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:21:54] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:21:54] "GET /random_node_by_distance?ref=116545&min_distance=1&max_distance=4& HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:21:54] "GET /shortest_path?ref1=116545&ref2=103891& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:21:56] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:21:56] "GET /random_node_by_distance?ref=71789&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:21:56] "GET /shortest_path?ref1=71789&ref2=42843& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:21:58] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:21:58] "GET /random_node_by_distance?ref=62993&min_distance=1&max_distance=4& HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:21:58] "GET /shortest_path?ref1=62993&ref2=41268& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:22:01] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:22:01] "GET /random_node_by_distance?ref=120834&min_distance=1&max_distance=4& HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:22:01] "GET /shortest_path?ref1=120834&ref2=25042& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:22:03] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:22:03] "GET /random_node_by_distance?ref=71763&min_distance=1&max_distance=4& HTTP/1.1" 200 29
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:22:03] "GET /shortest_path?ref1=71763&ref2=97553& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:22:04] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:22:04] "GET /random_node_by_distance?ref=145127&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:22:04] "GET /shortest_path?ref1=145127&ref2=51433& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:22:58] "GET /random_node HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:22:58] "GET /random_node_by_distance?ref=64817&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:22:58] "GET /shortest_path?ref1=64817&ref2=70994& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:01] "GET /random_node HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:01] "GET /random_node_by_distance?ref=7303&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:01] "GET /shortest_path?ref1=7303&ref2=127254& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:03] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:03] "GET /random_node_by_distance?ref=94799&min_distance=1&max_distance=4& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:03] "GET /shortest_path?ref1=94799&ref2=20270& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:19] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:19] "GET /random_node_by_distance?ref=22166&min_distance=1&max_distance=4& HTTP/1.1" 200 29
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:19] "GET /shortest_path?ref1=22166&ref2=75926& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:21] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:21] "GET /random_node_by_distance?ref=108200&min_distance=1&max_distance=4& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:21] "GET /shortest_path?ref1=108200&ref2=6120& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:22] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:22] "GET /random_node_by_distance?ref=81758&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:23] "GET /shortest_path?ref1=81758&ref2=69334& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:25] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:25] "GET /random_node_by_distance?ref=12404&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:26] "GET /shortest_path?ref1=12404&ref2=143407& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:27] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:27] "GET /random_node_by_distance?ref=33152&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:27] "GET /shortest_path?ref1=33152&ref2=145732& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:28] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:28] "GET /random_node_by_distance?ref=108816&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:28] "GET /shortest_path?ref1=108816&ref2=60595& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:29] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:29] "GET /random_node_by_distance?ref=14267&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:29] "GET /shortest_path?ref1=14267&ref2=13123& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:33] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:33] "GET /random_node_by_distance?ref=142447&min_distance=1&max_distance=4& HTTP/1.1" 200 39
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:33] "GET /shortest_path?ref1=142447&ref2=41813& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:35] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:35] "GET /random_node_by_distance?ref=77738&min_distance=1&max_distance=4& HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:35] "GET /shortest_path?ref1=77738&ref2=29277& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:36] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:36] "GET /random_node_by_distance?ref=63580&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:36] "GET /shortest_path?ref1=63580&ref2=42144& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:36] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:36] "GET /random_node_by_distance?ref=96654&min_distance=1&max_distance=4& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:37] "GET /shortest_path?ref1=96654&ref2=82961& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:37] "GET /random_node HTTP/1.1" 200 35
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:38] "GET /random_node_by_distance?ref=92439&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:40] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:40] "GET /random_node_by_distance?ref=141310&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:40] "GET /shortest_path?ref1=141310&ref2=39073& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:41] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:41] "GET /random_node_by_distance?ref=34622&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:41] "GET /shortest_path?ref1=34622&ref2=74547& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:42] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:43] "GET /random_node_by_distance?ref=135621&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:43] "GET /shortest_path?ref1=135621&ref2=58203& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:44] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:44] "GET /random_node_by_distance?ref=68269&min_distance=1&max_distance=4& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:44] "GET /shortest_path?ref1=68269&ref2=45580& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:45] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:45] "GET /random_node_by_distance?ref=9452&min_distance=1&max_distance=4& HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:45] "GET /shortest_path?ref1=9452&ref2=101544& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:46] "GET /random_node HTTP/1.1" 200 33
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:46] "GET /random_node_by_distance?ref=27526&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:47] "GET /random_node HTTP/1.1" 200 41
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:47] "GET /random_node_by_distance?ref=35749&min_distance=1&max_distance=4& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:47] "GET /shortest_path?ref1=35749&ref2=76398& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:48] "GET /random_node HTTP/1.1" 200 30
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:48] "GET /random_node_by_distance?ref=48335&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:50] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:50] "GET /random_node_by_distance?ref=1160&min_distance=1&max_distance=4& HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:50] "GET /shortest_path?ref1=1160&ref2=1090& HTTP/1.1" 200 44
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:51] "GET /random_node HTTP/1.1" 200 41
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:51] "GET /random_node_by_distance?ref=128160&min_distance=1&max_distance=4& HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:51] "GET /shortest_path?ref1=128160&ref2=74256& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:51] "GET /random_node HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:52] "GET /random_node_by_distance?ref=52283&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:23:52] "GET /shortest_path?ref1=52283&ref2=129222& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:00] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:00] "GET /random_node_by_distance?ref=77924&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:00] "GET /shortest_path?ref1=77924&ref2=5345& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:01] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:01] "GET /random_node_by_distance?ref=5753&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:01] "GET /shortest_path?ref1=5753&ref2=49281& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:02] "GET /random_node HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:02] "GET /random_node_by_distance?ref=69983&min_distance=1&max_distance=4& HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:02] "GET /shortest_path?ref1=69983&ref2=109928& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:03] "GET /random_node HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:03] "GET /random_node_by_distance?ref=52011&min_distance=1&max_distance=4& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:03] "GET /shortest_path?ref1=52011&ref2=67634& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:05] "GET /random_node HTTP/1.1" 200 29
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:05] "GET /random_node_by_distance?ref=4070&min_distance=1&max_distance=4& HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:05] "GET /shortest_path?ref1=4070&ref2=24939& HTTP/1.1" 200 44
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:06] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:06] "GET /random_node_by_distance?ref=78715&min_distance=1&max_distance=4& HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:06] "GET /shortest_path?ref1=78715&ref2=36451& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:07] "GET /random_node HTTP/1.1" 200 38
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:07] "GET /random_node_by_distance?ref=96948&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:07] "GET /shortest_path?ref1=96948&ref2=47107& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:09] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:09] "GET /random_node_by_distance?ref=82846&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:09] "GET /shortest_path?ref1=82846&ref2=83197& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:12] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:12] "GET /random_node_by_distance?ref=6392&min_distance=1&max_distance=4& HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:12] "GET /shortest_path?ref1=6392&ref2=70416& HTTP/1.1" 200 45
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:13] "GET /random_node HTTP/1.1" 200 39
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:13] "GET /random_node_by_distance?ref=137217&min_distance=1&max_distance=4& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:13] "GET /shortest_path?ref1=137217&ref2=39287& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:13] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:14] "GET /random_node_by_distance?ref=106453&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:14] "GET /shortest_path?ref1=106453&ref2=71758& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:14] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:14] "GET /random_node_by_distance?ref=73028&min_distance=1&max_distance=4& HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:14] "GET /shortest_path?ref1=73028&ref2=23255& HTTP/1.1" 200 48
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:15] "GET /random_node HTTP/1.1" 200 31
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:15] "GET /random_node_by_distance?ref=15043&min_distance=1&max_distance=4& HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:15] "GET /shortest_path?ref1=15043&ref2=72070& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:16] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:16] "GET /random_node_by_distance?ref=138967&min_distance=1&max_distance=4& HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:16] "GET /shortest_path?ref1=138967&ref2=144000& HTTP/1.1" 200 49
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:17] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:17] "GET /random_node_by_distance?ref=5961&min_distance=1&max_distance=4& HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:17] "GET /shortest_path?ref1=5961&ref2=49878& HTTP/1.1" 200 43
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:23] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:23] "GET /random_node_by_distance?ref=88567&min_distance=1&max_distance=4& HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:23] "GET /shortest_path?ref1=88567&ref2=41377& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:24] "GET /random_node HTTP/1.1" 200 35
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:24] "GET /random_node_by_distance?ref=11820&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:24] "GET /shortest_path?ref1=11820&ref2=3924& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:40] "GET /random_node HTTP/1.1" 200 40
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:40] "GET /random_node_by_distance?ref=137133&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:40] "GET /shortest_path?ref1=137133&ref2=28281& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:56] "GET /random_node HTTP/1.1" 200 38
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:24:56] "GET /random_node_by_distance?ref=110543&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:25:07] "GET /random_node HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:25:07] "GET /random_node_by_distance?ref=27212&min_distance=1&max_distance=4& HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:25:07] "GET /shortest_path?ref1=27212&ref2=84190& HTTP/1.1" 200 47
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:25:08] "GET /random_node HTTP/1.1" 200 32
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:25:08] "GET /random_node_by_distance?ref=35691&min_distance=1&max_distance=4& HTTP/1.1" 200 34
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:25:09] "GET /shortest_path?ref1=35691&ref2=86018& HTTP/1.1" 200 46
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:25:10] "GET /random_node HTTP/1.1" 200 38
+Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/wsgiref/handlers.py", line 85, in run
+    self.result = application(self.environ, self.start_response)
+  File "./server.py", line 17, in application
+    return api._application(environ)
+  File "/home/doug/games/bacon/API.py", line 40, in _application
+    return [ json.dumps(self._get_method()(urlparse.parse_qs(environ['QUERY_STRING']))) ]
+  File "/home/doug/games/bacon/API.py", line 78, in random_node_by_distance_
+    self._get_arg('max_distance', type=int)))
+  File "/home/doug/games/bacon/Bigrams.py", line 643, in random_node_by_distance
+    tail = self.node(ref=path[max_distance])
+IndexError: list index out of range
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:36:25] "GET /random_node_by_distance?ref=119288&min_distance=1&max_distance=4& HTTP/1.1" 500 59
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:36:26] "GET /random_node HTTP/1.1" 200 36
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:36:26] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:36:26] "GET /random_node HTTP/1.1" 200 37
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:36:26] "GET /random_node HTTP/1.1" 200 30
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:36:26] "GET /random_node HTTP/1.1" 200 33
+66.236.186.82.ptr.us.xo.net - - [26/Jan/2012 00:36:26] "GET /random_node HTTP/1.1" 200 38
