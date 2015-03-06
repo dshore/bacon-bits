@@ -593,9 +593,18 @@ class Game_API(object):
         self.db_ = None
         self.seeded_ = None
         self.paths_ = None
+        self.graph_ = None
+
+    def get_gpickle_path(self):
+        return "%s.gpickle" % self.dbname
 
     def _graph(self):
-        return self._db().graph(read_gpickle=self.read_gpickle, write_gpickle=self.write_gpickle)
+        if self.graph_ is None:
+            if self.read_gpickle:
+                self.graph_ = nx.read_gpickle(self.get_gpickle_path())
+            else:
+                self.graph_= self._db().graph(read_gpickle=self.read_gpickle, write_gpickle=self.write_gpickle)
+        return self.graph_
 
     def _db(self):
         if self.db_ is None:
