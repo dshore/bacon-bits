@@ -19,13 +19,12 @@ usage: play.py [-h] [--head_word HEAD_WORD] [--tail_word TAIL_WORD] [--dbname DB
 Gridded Bigram links
 
 optional arguments:
-  -h, --help            show this help message and exit
-  --head_word HEAD_WORD, -hw HEAD_WORD
-  --tail_word TAIL_WORD, -tw TAIL_WORD
-  --dbname DBNAME, -d DBNAME
-  --mode MODE, -m MODE
-  --cmd_str CMD_STR, -s CMD_STR
-  --cmd_file CMD_FILE, -c CMD_FILE
-  --write_gpickle, -wgp
-                        verbose (default: False)
-  --read_gpickle, -rgp  verbose (default: False)
+  -h, --help            show this help message and exit  
+  --head_word HEAD_WORD, -hw HEAD_WORD  
+  --tail_word TAIL_WORD, -tw TAIL_WORD  
+  --dbname DBNAME, -d DBNAME  
+  --mode MODE, -m MODE  
+  --cmd_str CMD_STR, -s CMD_STR  
+  --cmd_file CMD_FILE, -c CMD_FILE  
+  --write_gpickle, -wgp verbose (default: False)  
+  --read_gpickle, -rgp  verbose (default: False)  
